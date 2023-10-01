@@ -1,5 +1,5 @@
 # volunter-pembuatan-aplikasi
-Repository ini berfungsi sebagai sayembara volunter untuk pembuatan aplikasi [Dioding](www.dicoding.com).<br>
+Repository ini berfungsi sebagai sayembara volunter untuk pembuatan aplikasi [Dicoding](www.dicoding.com).<br>
 Jika Anda tertarik untuk menjadi Volunter, silakan lakukan PR(pull-request) pada berkas ini ya.<br>
 
 Silakan gunakan format berikut:<br>
